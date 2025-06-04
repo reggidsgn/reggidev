@@ -17,9 +17,4 @@ Passionate about creating efficient and scalable solutions, I strive to develop 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=3178C6) 
 ![React](https://img.shields.io/badge/-React-2D2D2D?style=flat&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/-Next.js-2D2D2D?style=flat&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-2D2D2D?style=flat&logo=tailwind-css&logoColor=38B2AC)  
-
-### ⚙️ Back-end e Banco de Dados:  
-![Node.js](https://img.shields.io/badge/-Node.js-2D2D2D?style=flat&logo=node.js&logoColor=339933) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-2D2D2D?style=flat&logo=mongodb&logoColor=47A248) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-2D2D2D?style=flat&logo=tailwind-css&logoColor=38B2AC)
