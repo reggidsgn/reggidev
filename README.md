@@ -2,7 +2,9 @@
 
 Product Designer & Front-end Developer
 
-Passionate about creating efficient and scalable solutions, I strive to develop clean and reusable code while ensuring an exceptional user experience. I enjoy collaborating with others, exchanging knowledge, and continuously learning to improve my skills. My focus is always on delivering the best possible solution to each challenge, balancing performance, usability, and innovation.
+I design and build digital products, combining UI/UX design, front-end development, and product thinking to create interfaces that are both visually refined and technically solid.
+
+My work sits between design and engineering. I care about translating ideas into polished, scalable experiences, with attention to usability, accessibility, performance, and maintainable
 
 ## 🛠 Tech Stack  
 
