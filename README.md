@@ -1,21 +1,42 @@
 # Reginaldo Gomes
 
-Product Designer & Front-end Developer
+**Product Designer & Software Developer**
 
-I design and build digital products, combining UI/UX design, front-end development, and product thinking to create interfaces that are both visually refined and technically solid.
+I design and build digital products at the intersection of design and technology.
 
-My work sits between design and engineering. I care about translating ideas into polished, scalable experiences, with attention to usability, accessibility, performance, and maintainable
+My work combines product thinking, UI/UX design, and software development to create thoughtful, intuitive, and scalable digital experiences. From defining user flows and building design systems to developing complete applications, I care about every detail that makes a product functional, reliable, and visually refined.
 
-## 🛠 Tech Stack  
+I enjoy turning ideas into real products, combining design and engineering to build solutions that solve problems and deliver meaningful experiences.
 
-### 🎨 Design
-> - Figma
-> - UI/UX Design
-> - Design Systems
-> - Prototyping
+## What I Do
 
-### 💻 Front-end:
-> - Next.js
-> - React
-> - TypeScript
-> - Tailwind CSS
+- **Product Design:** User research, UX strategy, user flows, wireframing, and prototyping.
+- **UI Design:** Visual design, interface architecture, and high-fidelity interfaces.
+- **Design Systems:** Scalable design foundations, reusable components, and visual consistency.
+- **Software Development:** Full-stack applications, web systems, APIs, and database architecture.
+
+## Tech Stack
+
+### Design
+- Figma
+- UI/UX Design
+- Design Systems
+- Prototyping
+
+### Front-end
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Back-end & Infrastructure
+- PostgreSQL
+- Vercel
+
+## Currently Exploring
+
+Building scalable SaaS products, improving design-to-code workflows, and exploring how AI can enhance the way digital products are designed and developed.
+
+---
+
+*Design with purpose. Build with precision.*
